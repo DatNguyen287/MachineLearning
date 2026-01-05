@@ -7,3 +7,5 @@ train.py là code train model
 app_demo.py là ứng dụng demo
 
 nya_model.pkl là file lưu model
+
+Test.ipynb cũng là code train model nhưng là file ipynb
